@@ -1,1 +1,1 @@
-# math
+Repo with some math functions - submodule for calculator
